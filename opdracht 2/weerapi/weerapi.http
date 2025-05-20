@@ -1,0 +1,6 @@
+@weerapi_HostAddress = http://localhost:5135
+
+GET {{weerapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
